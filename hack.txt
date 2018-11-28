@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <title>U Have Been Hacked!</title>
+
+</head>
+
+<body style="height: 0px; background-color: black; color: rgb(0, 0, 0);" alink="#ee0000" link="#0000ee" vlink="#551a8b">
+    <div style="text-align: center;">
+        <span style="color: rgb(141, 141, 141);">
+            <big style="font-family: MV Boli;">
+                <span style="font-weight: bold;"># Hacked By#</span>
+                <br style="font-weight: bold;">
+                <span style="font-weight: bold;">&nbsp;
+                    <span style="color: rgb(204, 0, 0);">Anonymous</span>&nbsp;
+                </span>
+            </big>
+            <br>
+            <br>
+        </span>
+        <img height="50%" weight="50%" src="../Anonymous.jpg">
+        <br>
+        <br style="font-weight: bold;">
+        <div style="text-align: center; font-family: Bold Italic Art; font-weight: bold;">
+            <p align="center">
+                <font style="font-size: 13pt;" color="#c0c0c0" face="Verdana">
+                    <span style="background-color: rgb(0, 0, 0); letter-spacing: normal;">uid=0(root) gid=0(root) groups=0(root)</span>
+                </font>
+            </p>
+            <p style="background-color: black;" align="center">
+                <font face="Fixedsys">
+                    <font face="Tahoma" size="4">
+                        <span style="color: rgb(255, 255, 255);">[</span>
+                    </font>
+                </font>
+                <span style="color: rgb(255, 0, 0);">
+                    <font face="Tahoma" size="4">&nbsp;</font>
+                </span>
+                <font face="Fixedsys">
+                    <font color="#ffffff" face="Arial" size="4">This Website Has Been
+                    </font>
+                    <font style="color: red;" color="#990000" face="Arial" size="4">Hacked</font>
+                    <font face="Tahoma" size="4">    
+                        <span style="color: rgb(255, 255, 255);"># ]
+                        </span>
+                    </font>
+                </font>
+            </p>
+            <p style="text-align: center; background-color: black; unicode-bidi: embed; direction: rtl;" align="center" dir="rtl">
+                <font color="#ffffff" face="Browallia New" size="5">&nbsp;but you don't have any
+                    <span style="color: rgb(204, 0, 0);">security</span> in your web site</font>
+                <font color="#663300" face="Browallia New" size="5"> !</font>
+                <font color="#ffffff" face="Browallia New" size="5">!</font>
+            </p>
+            <p style="text-align: center; background-color: black; unicode-bidi: embed; direction: rtl;" align="center" dir="rtl"></p>
+            <p style="background-color: black; unicode-bidi: embed; direction: rtl;" align="center" dir="rtl">
+                <span lang="en-us">
+                    <blink>
+                        <font color="#ffffff" face="Comic Sans MS" size="4">Anonymous</font>
+                    </blink>
+                </span>
+            </p>
+            <p style="background-color: black; unicode-bidi: embed; direction: rtl;" align="center" dir="rtl">
+                <span lang="en-us">
+                    <blink></blink>
+                </span>
+                <span></span>
+            </p>
+            <big style="font-family: Comic Sans MS;">
+                <span style="color: rgb(204, 204, 204);"> </span>
+            </big>
+            <br>
+        </div>
+        <br>
+    </div>
+</body>
+
+</html>

